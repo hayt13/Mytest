@@ -1,0 +1,4 @@
+git config --global user.name "hayt13"
+git config --global user.email "haitem@8trust.com"
+git init Mytest
+cd Mytest
