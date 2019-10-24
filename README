@@ -2,3 +2,9 @@ git config --global user.name "hayt13"
 git config --global user.email "haitem@8trust.com"
 git init Mytest
 cd Mytest
+nano test.java
+git add test.java
+git commit -m "test"
+git remote add origin https://github.com/hayt13/Mytest.git
+git push origin master
+
